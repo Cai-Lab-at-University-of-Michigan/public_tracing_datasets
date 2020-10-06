@@ -1,3 +1,4 @@
-# Cai Lab Public Datasets
+# Cai Lab Public Tracing Datasets
 
-Publicly-released datasets from Cai Lab papers
+A collection of publicly-released neuron tracing datasets from Cai Lab papers.
+
