@@ -1,2 +1,3 @@
-# public_datasets
+# Cai Lab Public Datasets
+
 Publicly-released datasets from Cai Lab papers
